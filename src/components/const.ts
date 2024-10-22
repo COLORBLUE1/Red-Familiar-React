@@ -1,0 +1,32 @@
+// Define una interfaz para los objetos de contenido
+interface Contenido {
+  id: number;
+  tittle?: string; // Tittle puede ser opcional
+  parrafo?: string; // Parrafo puede ser opcional
+  img: string;
+}
+
+// Define una interfaz para los objetos de contenido sin título ni párrafo
+interface ContenidoSinTexto {
+  id: number;
+  img: string;
+}
+
+// URL de imágenes
+export const BG: string =
+  "https://res.cloudinary.com/dehpi4905/image/upload/v1728425871/J-C/rkxibmd0pigcsyh4s9eu.jpg";
+
+export const pantalla1: string =
+  "https://res.cloudinary.com/dehpi4905/image/upload/v1728435526/J-C/uzhnfxksunm5kpa108gf.png";
+
+export const pantalla2: string =
+  "https://res.cloudinary.com/dehpi4905/image/upload/v1728439724/J-C/h5k9h4wtoj0zpce1wkbp.png";
+
+export const Logo: string =
+  "https://res.cloudinary.com/dehpi4905/image/upload/v1727398407/J-C/tye536i9k1ex3asatuzf.png";
+
+export const imgpruebas: string =
+  "https://www.geekmi.news/__export/1677857618565/sites/debate/img/2023/03/03/eren-jaeger-snk_1.jpg_554688468.jpg";
+
+export const portada: string =
+  "data:image/jpeg;base64,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";

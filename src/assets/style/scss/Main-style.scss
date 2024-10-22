@@ -1,0 +1,50 @@
+$amarillo: #ffe031;
+
+body {
+  font-family: "Roboto";
+}
+
+.ubi {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.ubi:active{
+    color: red;
+}
+
+.deliveri {
+  margin: 0;
+  font-size: 10px;
+  line-height: 0;
+  color: $amarillo;
+}
+
+.texto {
+  display: grid;
+
+  h3 {
+    margin: 5px;
+    text-align: left;
+  }
+}
+
+.icono-location {
+  color: $amarillo ;
+  position: relative;
+  color: "#ffe031";
+  width: 40px;
+  height: 40px;
+  bottom: 5px;
+}
+
+#custom-class {
+  width: 100%;
+  height: 130px;
+  overflow: hidden;
+}
