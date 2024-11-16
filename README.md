@@ -108,7 +108,7 @@ La aplicación está diseñada para ser completamente responsive, adaptándose a
 
 ## Deploy
 
-La aplicación está desplegada en Firebase Hosting. Puedes acceder a la versión en vivo [aquí](https://github.com/academia-geek/demo-day-projects-j-c).
+La aplicación está desplegada en Firebase Hosting. Puedes acceder a la versión en vivo [aquí][(https://github.com/academia-geek/demo-day-projects-j-c).](https://github.com/COLORBLUE1/Red-Familiar-React)
 
 ## Contribuciones
 
@@ -121,7 +121,10 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
 ## Pantallazos
 
-[![Screenshot-2024-09-28-143259.png](https://i.postimg.cc/26vXdW8r/Screenshot-2024-09-28-143259.png)](https://postimg.cc/FdrZN7LB)
+[![login.png](https://i.postimg.cc/m2zvVmYc/login.png)](https://postimg.cc/3dhfxCb7)
+[![main.png](https://i.postimg.cc/SQv0WBMF/main.png)](https://postimg.cc/t7Wmbmk2)
+[![perfil.png](https://i.postimg.cc/ncy6Wq23/perfil.png)](https://postimg.cc/YhxnGGJF)
+
 
 ## Licencia
 
